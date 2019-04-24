@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plot", "Plot\Plot.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCompuertasLogicas", "TestCompuertasLogicas\TestCompuertasLogicas.csproj", "{3DA27043-85C3-4590-9C9B-1D7576A8C72B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuerbasNeurona", "PuerbasNeurona\PuerbasNeurona.csproj", "{6D7DE4E8-6DB0-46D9-9E44-F415338D5257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3DA27043-85C3-4590-9C9B-1D7576A8C72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DA27043-85C3-4590-9C9B-1D7576A8C72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DA27043-85C3-4590-9C9B-1D7576A8C72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7DE4E8-6DB0-46D9-9E44-F415338D5257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7DE4E8-6DB0-46D9-9E44-F415338D5257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7DE4E8-6DB0-46D9-9E44-F415338D5257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7DE4E8-6DB0-46D9-9E44-F415338D5257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

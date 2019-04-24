@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\TSP\Methods\bin\Debug\Methods.dll
+C:\Users\David\Desktop\TSP\Methods\bin\Debug\Methods.pdb
+C:\Users\David\Desktop\TSP\Methods\obj\Debug\Bibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\TSP\Methods\obj\Debug\Methods.dll
+C:\Users\David\Desktop\TSP\Methods\obj\Debug\Methods.pdb

@@ -13,7 +13,6 @@ namespace bibliotecas
         double output,B, n, epw;
         #endregion
 
-
         #region Constructor
         public Neurona(int input, TypeofFunction Fx)
         {
@@ -21,7 +20,6 @@ namespace bibliotecas
             this.W = new double[input];
             this.W = Mat.randn(W);
             this.B = Mat.randn();
-
         }
         #endregion
 

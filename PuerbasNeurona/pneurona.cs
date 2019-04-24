@@ -1,19 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using bibliotecas;
+using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using bibliotecas;
 
-
-//Este programa está diseñado para hacer todas las pruebas necesarias
-namespace ConsoleApp1
+namespace PuerbasNeurona
 {
-    class Prueba
+    class pneurona
     {
-        static void Main()
+        static void Main(string[] args)
         {
-
             Mat.Present();
             // Entradas
             double[][] entrada =
@@ -53,36 +47,8 @@ namespace ConsoleApp1
             {
                 N1.Gsw[i] = N1.Gsw[i] * delta[i];
             }
-
-
-
-
-
             Console.ReadKey();
         }
-
-
-
-
-       
-        #region Funciones Matlab Privadas
-
-        public static double Inte(double[] x,double[] y)
-        {
-            double vint = 0, h = x[1]-x[0];
-            // The Trapz method will be restringed to equal distance separation
-            vint = y.Sum() * h;
-            return vint;
-        }
-        #endregion
-
-        ///Esto es un ejemplo que se utilizó para moestrar como podias hacer un enumerador y despues 
-        ///especificar el tipo de integral que se va a realizar
-        #region Enumeradores
-        public enum TypeIntegral
-            {
-                simpson, trapezoidal
-            }
-        #endregion
+        
     }
 }

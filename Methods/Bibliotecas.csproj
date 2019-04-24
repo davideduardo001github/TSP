@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="compuertas.cs" />
+    <Compile Include="Compuertas.cs" />
     <Compile Include="Mat.cs" />
     <Compile Include="Neurona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

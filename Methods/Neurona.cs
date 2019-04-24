@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Methods
+namespace bibliotecas
 {
     public class Neurona
     {

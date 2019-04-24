@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Methods
+namespace bibliotecas
 {
        /// <summary>
        /// Librería con métodos útiles, 

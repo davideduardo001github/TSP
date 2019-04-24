@@ -1,0 +1,14 @@
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\obj\Debug\Problemas de cargas.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\obj\Debug\Problemas de cargas.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\SolutionHomework1\obj\Debug\SolutionHomework1.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\obj\Debug\Problemas de cargas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\obj\Debug\Problemas de cargas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\SolutionHomework1\obj\Debug\SolutionHomework1.pdb

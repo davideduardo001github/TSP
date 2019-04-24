@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.exe.config
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.pdb

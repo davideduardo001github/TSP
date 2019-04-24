@@ -1,0 +1,17 @@
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\bin\Debug\ChargeGraph.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\bin\Debug\ChargeGraph.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\bin\Debug\ChargeGraph.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.Form1.resources
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.Properties.Resources.resources
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.csproj.GenerateResource.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ChargeGraph\obj\Debug\ChargeGraph.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.Form1.resources
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.Properties.Resources.resources
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\ChargeGraph\obj\Debug\ChargeGraph.pdb

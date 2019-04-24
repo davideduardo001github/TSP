@@ -1,0 +1,34 @@
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\bin\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\bin\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\ConsoleApp1\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\Methods.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\ConsoleApp1\bin\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\Methods.dll
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\Statistical.dll
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\bin\Debug\Statistical.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\obj\Debug\Pruebas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\obj\Debug\Pruebas.csproj.CopyComplete
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\David\Desktop\Codigo\Code\TSP\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

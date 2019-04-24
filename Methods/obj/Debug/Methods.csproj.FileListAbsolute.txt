@@ -1,0 +1,23 @@
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Methods\bin\Debug\Methods.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Methods\bin\Debug\Methods.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Methods\obj\Debug\Methods.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Methods\obj\Debug\Methods.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\bin\Debug\Methods.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\bin\Debug\Methods.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\obj\Debug\Methods.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Codigo\Methods\obj\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\TSP\Methods\bin\Debug\Methods.dll
+C:\Users\David\Desktop\Codigo\TSP\Methods\bin\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\TSP\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\TSP\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\TSP\Methods\obj\Debug\Methods.dll
+C:\Users\David\Desktop\Codigo\TSP\Methods\obj\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\obj\Debug\Methods.dll
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\obj\Debug\Methods.pdb
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\bin\Debug\Methods.dll
+C:\Users\David\Desktop\Codigo\Code\TSP\Methods\bin\Debug\Methods.pdb

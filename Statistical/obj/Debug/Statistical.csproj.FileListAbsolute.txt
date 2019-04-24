@@ -1,0 +1,11 @@
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\Statistical\bin\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\Statistical\bin\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\Statistical\obj\Debug\Statistical.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\Statistical\obj\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\Statistical\obj\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\bin\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\bin\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\obj\Debug\Statistical.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\obj\Debug\Statistical.dll
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\obj\Debug\Statistical.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\04 Programa estadístico\Statistical\obj\Debug\Statistical.csprojAssemblyReference.cache

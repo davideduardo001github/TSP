@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\Codigo\Code\TSP\Plot\obj\Debug\Plot.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\Plot\obj\Debug\Plot.Plotting.resources
+C:\Users\David\Desktop\Codigo\Code\TSP\Plot\obj\Debug\Plot.Properties.Resources.resources
+C:\Users\David\Desktop\Codigo\Code\TSP\Plot\obj\Debug\Plot.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Codigo\Code\TSP\Plot\obj\Debug\Plot.csproj.CoreCompileInputs.cache

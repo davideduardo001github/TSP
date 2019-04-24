@@ -1,0 +1,35 @@
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.csprojAssemblyReference.cache
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\source\repos\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\02 Problemas cargas\SolutionHomework1\SolutionHomework1\obj\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\obj\Debug\SolutionHomework1.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\obj\Debug\SolutionHomework1.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Fuerza bruta\SolutionHomework1\obj\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\obj\Debug\SolutionHomework1.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\obj\Debug\SolutionHomework1.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph\SolutionHomework1\obj\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\bin\Debug\SolutionHomework1.exe.config
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\bin\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\bin\Debug\SolutionHomework1.pdb
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\obj\Debug\SolutionHomework1.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\obj\Debug\SolutionHomework1.csproj.CoreCompileInputs.cache
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\obj\Debug\SolutionHomework1.exe
+C:\Users\David\Google Drive\6th_Semester\Temas selectos de programación\Clases\03 Más problemas\Homework Graph 01\SolutionHomework1\obj\Debug\SolutionHomework1.pdb

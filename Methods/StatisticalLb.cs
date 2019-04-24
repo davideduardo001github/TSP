@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 //Librería con opciones estadísticas para vectores de una sola dimensión
 //Nota:  Todo es ejecutado en un Console.
-namespace Methods
+namespace bibliotecas
 {
     public class Stat
     {

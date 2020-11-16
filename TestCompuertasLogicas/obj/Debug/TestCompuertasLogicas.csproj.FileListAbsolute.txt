@@ -5,3 +5,13 @@ C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompu
 C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csproj.CoreCompileInputs.cache
 C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.exe
 C:\Users\David\Desktop\Codigo\Code\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.pdb
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csprojAssemblyReference.cache
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.exe
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.pdb
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.exe.config
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.exe
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\bin\Debug\TestCompuertasLogicas.pdb
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\bin\Debug\Methods.dll
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\bin\Debug\Methods.pdb
+C:\Users\David\Desktop\TSP\TestCompuertasLogicas\obj\Debug\TestCompuertasLogicas.csproj.CopyComplete
